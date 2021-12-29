@@ -13,5 +13,8 @@
 ## ⏱ 시간
 - 매주 **수요일 저녁 9시**
 
+## 줌 링크
+- https://us05web.zoom.us/j/82091185206?pwd=TjNleEY3d2pPbUJYeE16aVdUTkFjZz09
+
 ## 📎 참고
 - [백기선 님 강의](https://www.youtube.com/playlist?list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ)
