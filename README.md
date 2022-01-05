@@ -13,8 +13,8 @@
 ## ⏱ 시간
 - 매주 **수요일 저녁 9시**
 
-## 줌 링크
-- https://us05web.zoom.us/j/89583285311?pwd=R1poQ2VacERCaE8zaEJYMVhuTCtndz09
+## Google Meet 링크
+- https://meet.google.com/ijd-xtac-zpo
 
 ## 📎 참고
 - [백기선 님 강의](https://www.youtube.com/playlist?list=PLfI752FpVCS8e5ACdi5dpwLdlVkn0QgJJ)
