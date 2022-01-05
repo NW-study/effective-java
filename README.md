@@ -13,7 +13,7 @@
 ## ⏱ 시간
 - 매주 **수요일 저녁 9시**
 
-## Google Meet 링크
+## 💻 Google Meet 링크
 - https://meet.google.com/ijd-xtac-zpo
 
 ## 📎 참고
